@@ -27,6 +27,20 @@
 	icon_state = "synthliz_tertunder"
 	matrixed_sections = MATRIX_ALL
 
+/datum/sprite_accessory/snouts/mam_snouts/synthliz/protogen
+	icon = 'modular_citadel/icons/mob/synthliz_snouts.dmi'
+	color_src = MATRIXED
+	name = "Protogen Visor"
+	icon_state = "protogen"
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/snouts/mam_snouts/synthliz/protogen
+	icon = 'modular_citadel/icons/mob/synthliz_snouts.dmi'
+	color_src = MATRIXED
+	name = "Spiked Protogen Visor"
+	icon_state = "protogenspike"
+	matrixed_sections = MATRIX_RED_GREEN
+
 //Synth body markings
 /datum/sprite_accessory/mam_body_markings/synthliz/synthliz_pecs
 	icon = 'modular_citadel/icons/mob/synthliz_body_markings.dmi'
@@ -158,3 +172,4 @@
 /datum/sprite_accessory/taur/synthliz/wolf/inv
 	name = "Virgo - Synthetic Wolf (Inverted)"
 	icon_state = "synthwolfinv"
+

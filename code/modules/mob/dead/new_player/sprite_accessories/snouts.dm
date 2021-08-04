@@ -246,6 +246,16 @@
 	icon_state = "otie"
 	matrixed_sections = MATRIX_RED_GREEN
 
+/datum/sprite_accessory/snouts/mam_snouts/protogen
+	name = "Protogen Visor"
+	icon_state = "protogen"
+	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/snouts/mam_snouts/protogenspike
+	name = "Protogen Spiked Visor"
+	icon_state = "protogenspike"
+	matrixed_sections = MATRIX_RED_GREEN
+
 /datum/sprite_accessory/snouts/mam_snouts/round
 	name = "Round"
 	icon_state = "round"
@@ -442,3 +452,10 @@
 	name = "WahCoon ALT (Top)"
 	icon_state = "fwahalt"
 	matrixed_sections = MATRIX_RED_GREEN
+
+/datum/sprite_accessory/snouts/mam_snouts/fredpanda/alt
+	name = "WahCoon ALT (Top)"
+	icon_state = "fwahalt"
+	matrixed_sections = MATRIX_RED_GREEN
+
+
